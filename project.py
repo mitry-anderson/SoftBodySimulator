@@ -6,7 +6,7 @@ import copy
 import math
 from PIL import Image
 
-objectFile = "M.png"
+objectFile = "shapes/M.png"
 k = 10000. # spring stiffness coefficient
 c = 10. # damping coefficient
 c_air = 1. # air resistance coefficient
