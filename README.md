@@ -12,5 +12,5 @@ simulated, simply edit the file name for the "objectFile" at the top of the scri
 png files are provided in the shapes folder, and some animations I generated are in the 
 animations folder. Enjoy watching the shapes wiggle and bounce!
 
-![Bouncing M](https://http://mitryanderson.com/wp-content/uploads/2022/02/M_reportParameters.gif)
+![Bouncing M](https://mitryanderson.com/wp-content/uploads/2022/02/M_reportParameters.gif)
 
