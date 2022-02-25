@@ -9,9 +9,9 @@ from PIL import Image
 objectFile = "shapes/M.png"
 k = 10000. # spring stiffness coefficient
 c = 10. # damping coefficient
-c_air = 1. # air resistance coefficient
-m = 0.2 # mass of a point mass (kg)
-epsilon =  1.0 # coefficient of restitution
+c_air = 2. # air resistance coefficient
+m = 0.5 # mass of a point mass (kg)
+epsilon =  0.7 # coefficient of restitution
 mu = 0.6 # coefficient of friction
 
 initialAngle = 1. # rad
